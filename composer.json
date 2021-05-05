@@ -1,0 +1,16 @@
+{
+    "name": "bishoyN/IntegUtility",
+    "type": "library",
+    "description": "Integrations Helper Functions",
+    "keywords": ["Integrations","Helper"],
+    "homepage": "https://github.com/bishoyn",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bishoy Nasr",
+            "email": "bishoybishoo2012@gmail.com",
+            "homepage": "https://github.com/bishoyn",
+            "role": "Developer"
+        }
+    ]
+}
